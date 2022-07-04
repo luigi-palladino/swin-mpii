@@ -12,7 +12,7 @@ References:
  Usage:
  
  Run for training
- >python ./tools/train.py ./configs/swin\mask_rcnn_swin-t-p4-w7_fpn_1x_coco.py
+ >python ./tools/train.py ./configs/swin/mask_rcnn_swin-t-p4-w7_fpn_1x_coco.py
  
  Run for testing
  > Testing command
